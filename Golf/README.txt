@@ -1,7 +1,6 @@
 /* 
  * Allan Hammer, ahammer3
- * PROJECT 2 LAB TR 12:30-1:45
- * I did not copy code from on this assignment.
+ **
  * TTY Golf */
 
 Golf Project ReadMe (explained from top to bottom of code)
